@@ -14,7 +14,7 @@
 ```
 $ git clone https://github.com/USERNAME/REPOSITORY
 ```
-подробнее про клонирование репозитория можно глянуть [тут](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+_подробнее про клонирование репозитория можно глянуть [тут](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)_
 
 В командной строке перейти в папку где расположен файл `main.rb` и запустить команду для установки необходимых `gem`-файлов.
 
