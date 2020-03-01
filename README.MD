@@ -24,6 +24,7 @@ $ bundle install
 
 ## Запуск игры
 
+Для запуска игры, наберите команду
 ```
 $ bundle exec ruby main.rb
 ```
